@@ -13,3 +13,4 @@ C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Application\obj\Debug\net10
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Application\obj\Debug\net10.0\refint\FinanceTracker.Application.dll
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Application\obj\Debug\net10.0\FinanceTracker.Application.pdb
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Application\obj\Debug\net10.0\ref\FinanceTracker.Application.dll
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Application\obj\Debug\net10.0\FinanceTracker.Application.sourcelink.json

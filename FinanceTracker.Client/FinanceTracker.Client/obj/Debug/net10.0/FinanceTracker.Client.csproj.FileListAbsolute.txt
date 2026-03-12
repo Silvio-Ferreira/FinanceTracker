@@ -107,3 +107,4 @@ C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Clien
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\FinanceTracker.Client.pdb
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\FinanceTracker.Client.genruntimeconfig.cache
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\ref\FinanceTracker.Client.dll
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\FinanceTracker.Client.sourcelink.json

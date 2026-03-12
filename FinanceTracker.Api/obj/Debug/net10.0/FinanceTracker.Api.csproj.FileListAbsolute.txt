@@ -38,3 +38,4 @@ C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Api\obj\Debug\net10.0\refin
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Api\obj\Debug\net10.0\FinanceTracker.Api.pdb
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Api\obj\Debug\net10.0\FinanceTracker.Api.genruntimeconfig.cache
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Api\obj\Debug\net10.0\ref\FinanceTracker.Api.dll
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Api\obj\Debug\net10.0\FinanceTracker.Api.sourcelink.json

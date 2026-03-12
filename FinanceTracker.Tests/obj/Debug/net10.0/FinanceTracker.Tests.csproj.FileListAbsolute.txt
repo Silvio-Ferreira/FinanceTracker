@@ -100,3 +100,4 @@ C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Tests\obj\Debug\net10.0\ref
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Tests\obj\Debug\net10.0\FinanceTracker.Tests.pdb
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Tests\obj\Debug\net10.0\FinanceTracker.Tests.genruntimeconfig.cache
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Tests\obj\Debug\net10.0\ref\FinanceTracker.Tests.dll
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Tests\obj\Debug\net10.0\FinanceTracker.Tests.sourcelink.json
