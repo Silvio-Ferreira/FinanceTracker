@@ -16,3 +16,5 @@ C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Infrastructure\obj\Debug\ne
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Infrastructure\obj\Debug\net10.0\FinanceTracker.Infrastructure.pdb
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Infrastructure\obj\Debug\net10.0\ref\FinanceTracker.Infrastructure.dll
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Infrastructure\obj\Debug\net10.0\FinanceTracker.Infrastructure.sourcelink.json
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Infrastructure\bin\Debug\net10.0\FinanceTracker.Infrastructure.runtimeconfig.json
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Infrastructure\obj\Debug\net10.0\FinanceTracker.Infrastructure.genruntimeconfig.cache

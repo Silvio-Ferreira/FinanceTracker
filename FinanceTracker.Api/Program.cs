@@ -1,8 +1,13 @@
+using FinanceTracker.Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddDbContext<FinanceTrackerDbContext>(options =>
+    options.UseSqlite("Data Source=financetracker.db"));
 
 var app = builder.Build();
 

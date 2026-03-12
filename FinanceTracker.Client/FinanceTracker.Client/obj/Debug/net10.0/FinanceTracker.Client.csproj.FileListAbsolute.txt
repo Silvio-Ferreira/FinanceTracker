@@ -100,7 +100,6 @@ C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Clien
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\staticwebassets.development.json
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\swae.build.ex.cache
-C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\FinanceT.24B00C3A.Up2Date
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\FinanceTracker.Client.dll
 C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client\obj\Debug\net10.0\refint\FinanceTracker.Client.dll
