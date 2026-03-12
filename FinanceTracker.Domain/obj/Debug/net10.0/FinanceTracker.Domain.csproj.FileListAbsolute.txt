@@ -1,0 +1,11 @@
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\bin\Debug\net10.0\FinanceTracker.Domain.deps.json
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\bin\Debug\net10.0\FinanceTracker.Domain.dll
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\bin\Debug\net10.0\FinanceTracker.Domain.pdb
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\obj\Debug\net10.0\FinanceTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\obj\Debug\net10.0\FinanceTracker.Domain.AssemblyInfoInputs.cache
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\obj\Debug\net10.0\FinanceTracker.Domain.AssemblyInfo.cs
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\obj\Debug\net10.0\FinanceTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\obj\Debug\net10.0\FinanceTracker.Domain.dll
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\obj\Debug\net10.0\refint\FinanceTracker.Domain.dll
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\obj\Debug\net10.0\FinanceTracker.Domain.pdb
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Domain\obj\Debug\net10.0\ref\FinanceTracker.Domain.dll

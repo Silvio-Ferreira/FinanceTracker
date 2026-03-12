@@ -1,0 +1,140 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FinanceTracker.Client/1.0.0": {
+        "dependencies": {
+          "FinanceTracker.Application": "1.0.0",
+          "FinanceTracker.Client.Client": "1.0.0",
+          "Microsoft.AspNetCore.Components.WebAssembly.Server": "10.0.4"
+        },
+        "runtime": {
+          "FinanceTracker.Client.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebAssembly/10.0.4": {
+        "dependencies": {
+          "Microsoft.JSInterop.WebAssembly": "10.0.4"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.Components.WebAssembly.dll": {
+            "assemblyVersion": "10.0.4.0",
+            "fileVersion": "10.0.426.12010"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebAssembly.Server/10.0.4": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly": "10.0.4"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll": {
+            "assemblyVersion": "10.0.4.0",
+            "fileVersion": "10.0.426.12010"
+          }
+        }
+      },
+      "Microsoft.DotNet.HotReload.WebAssembly.Browser/10.0.200": {
+        "runtime": {
+          "lib/net10.0/Microsoft.DotNet.HotReload.WebAssembly.Browser.dll": {
+            "assemblyVersion": "10.0.200.0",
+            "fileVersion": "10.2.26.12022"
+          }
+        }
+      },
+      "Microsoft.JSInterop.WebAssembly/10.0.4": {
+        "runtime": {
+          "lib/net10.0/Microsoft.JSInterop.WebAssembly.dll": {
+            "assemblyVersion": "10.0.4.0",
+            "fileVersion": "10.0.426.12010"
+          }
+        }
+      },
+      "FinanceTracker.Application/1.0.0": {
+        "dependencies": {
+          "FinanceTracker.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FinanceTracker.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FinanceTracker.Client.Client/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly": "10.0.4",
+          "Microsoft.DotNet.HotReload.WebAssembly.Browser": "10.0.200"
+        },
+        "runtime": {
+          "FinanceTracker.Client.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FinanceTracker.Domain/1.0.0": {
+        "runtime": {
+          "FinanceTracker.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinanceTracker.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Components.WebAssembly/10.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zL6/TfmcmrqN8pn43oCX44bnDs0VdVz174IEMmuBan0wkGVzIO/zAWiOcjP441D2tJJCU+4BadBhWpIo+sH3Og==",
+      "path": "microsoft.aspnetcore.components.webassembly/10.0.4",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.10.0.4.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.WebAssembly.Server/10.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-84pABwfquu0+PNYBlxCRR2eWCFuFU7DXmGSOXCELVNCjxA3b3giHiEPbOdv/6Kvdl4TN0AmX+2sMETkUZ9S4BA==",
+      "path": "microsoft.aspnetcore.components.webassembly.server/10.0.4",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.server.10.0.4.nupkg.sha512"
+    },
+    "Microsoft.DotNet.HotReload.WebAssembly.Browser/10.0.200": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7+FOASnccOSI3JeS9l3Vkjh7+6M8sEHydwuWXNJS7oVTrw4BrGuRcDu4kH91klbZQ0dZ1T15RrbSnDYZeZSxIg==",
+      "path": "microsoft.dotnet.hotreload.webassembly.browser/10.0.200",
+      "hashPath": "microsoft.dotnet.hotreload.webassembly.browser.10.0.200.nupkg.sha512"
+    },
+    "Microsoft.JSInterop.WebAssembly/10.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9i1nsLzyh+liVUwpqnz/wyz/10zTdZowFCTL3XQ8U3nJcJb2TUUIJLWz6P97N8g33smPcvLe4Rfxz5+NjyZ7kQ==",
+      "path": "microsoft.jsinterop.webassembly/10.0.4",
+      "hashPath": "microsoft.jsinterop.webassembly.10.0.4.nupkg.sha512"
+    },
+    "FinanceTracker.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinanceTracker.Client.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinanceTracker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

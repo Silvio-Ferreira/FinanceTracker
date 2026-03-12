@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client.Client\wwwroot\appsettings.Development.json
+C:\Projetos\.Net\aulas\FinanceTracker\FinanceTracker.Client\FinanceTracker.Client.Client\wwwroot\appsettings.json
